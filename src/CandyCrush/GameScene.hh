@@ -9,7 +9,7 @@
 #include "Scene.hh"
 
 // GameScene class with the main gameplay mode
-class GameScene : public Scene {
+class GameScene : public Scene { //cambios realizados para probar github
 public:
 	explicit GameScene();
 	~GameScene() override;
